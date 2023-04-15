@@ -1,0 +1,4 @@
+services = [
+        "cd /mazikeen/node_server && node server.js",
+        "python biscuits/biscuits.pyc"
+    ]
